@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barbershop Booking</string>
+    <string name="add_appointment">Dodaj termin</string>
+    <string name="edit_appointment">Uredi termin</string>
+    <string name="delete_appointment">Obriši termin</string>
+    <string name="customer_name">Ime klijenta</string>
+    <string name="phone_number">Broj telefona</string>
+    <string name="service_type">Vrsta usluge</string>
+    <string name="appointment_date">Datum termina</string>
+    <string name="photo">Slika</string>
+    <string name="save">Spremi</string>
+    <string name="cancel">Otkaži</string>
+    <string name="delete_confirmation">Jeste li sigurni da želite obrisati ovaj termin?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+</resources>
