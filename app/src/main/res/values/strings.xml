@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Barbershop Booking</string>
+    <string name="app_name">BookNTrim</string>
     <string name="add_appointment">Dodaj termin</string>
     <string name="edit_appointment">Uredi termin</string>
     <string name="delete_appointment">Obriši termin</string>
